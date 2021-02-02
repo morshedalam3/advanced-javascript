@@ -6,7 +6,6 @@ for(let i = 0; i < number.length; i++){
 
     output.push(result); 
 }
-
 // function square(element){
 //     return element * element;
 // } or line 12-13
